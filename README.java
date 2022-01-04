@@ -1,5 +1,5 @@
 # BuildADroid
-Building a Droid using Java.
+Building a Basic Droid using Java.
 public class Droid{
   String name;
   int batteryLevel;
